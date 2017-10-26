@@ -1,0 +1,30 @@
+body{
+    background-color: peachpuff;
+}
+header{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1em 0em;
+}
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.board{
+    height: px;
+    width: 600px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+#button{
+    text-align: center;
+}
+.row1{
+    background-color: black;
+    height: 100px;
+    width: 600px;
+}
